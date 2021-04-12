@@ -39,6 +39,6 @@
 ######    - try to remember that short-term frustration will likely result in long-term improvement of my abilities
 
 [Markdown](https://mohnalkhateeb.github.io/reading-notes-ma/read01.md)
- 
+ [Git Introduction](https://mohnalkhateeb.github.io/reading-notes-ma/read02.md)
 
 
