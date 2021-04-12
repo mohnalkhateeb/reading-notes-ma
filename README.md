@@ -37,6 +37,8 @@
 ######    - Things like wisdom and achievement are the products of putting in hard work
 ######    - the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer.
 ######    - try to remember that short-term frustration will likely result in long-term improvement of my abilities
+
+[Markdown](https://mohnalkhateeb.github.io/reading-notes-ma/read01.md)
  
 
 
