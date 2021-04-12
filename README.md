@@ -14,7 +14,7 @@
 *If we can get better at catching ourselves in those moments when our brains revert to a fixed mindset, we can pull ourselves back into growth-iness and ultimately be more successful.
 
 
-## Perseverance, gumption traps, and maintaining a growth mindset
+* ## Perseverance, gumption traps, and maintaining a growth mindset
 ###    1-Callenges
 ######        - Find root causes of proplem
 ###    2-Obstacles
