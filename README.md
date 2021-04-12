@@ -27,6 +27,16 @@
 ######          What can I do to improve the aspects I’m less proud of?
 ######          Which aspects of my work am I most proud of?
 ######          What can I do to improve the aspects I’m less proud of?
+###    5-Success of others 
+######        - Under Stand why they Success 
+######        - be nearby of them
+
+
+
+##  Growing at work, and outside work too
+######    - Things like wisdom and achievement are the products of putting in hard work
+######    - the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer.
+######    - try to remember that short-term frustration will likely result in long-term improvement of my abilities
  
 
 
