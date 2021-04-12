@@ -40,7 +40,6 @@
 
 # Table Of content
 | Summary | source |
-| --- | --- |
 | [read01](https://mohnalkhateeb.github.io/reading-notes-ma/read01.md) |[Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/)  |
 | [read02](https://replit.com/@MohammadAlkhat1/reading-notes-ma#read02.md) | [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7) |
 
