@@ -13,4 +13,45 @@
     ![WireFrames ex](https://images.edrawmax.com/images/knowledge/what-is-wireframe.jpg)
     * Figure2:Example of WireFrames
   ### 3- Visual Design
-    The primary aim of any kind of visual design is to communicate. Organizing and prioritizing information on a page helps users understand its importance and what order to read it in
+    The primary aim of any kind of visual design is to communicate. Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.The Visual hierarchyand Design NaVigation are Examples of Visual Design 
+     * ### Visual hierarchy
+     You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for.
+      * Visual hierarchy Components
+        1- Size
+        2- Color
+        3- Style
+    * ### Designing Navigation
+     Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized.Good navigation tends to follow these principles. 
+        1- Concise
+        2- Clear
+        3- Selective
+        ![Navigation Design](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJs3WI6T8YIRefk9GEBSrm-aahpS__QRiS2g&usqp=CAU.png)
+
+* # Structure
+   * HTML Languege describes the structure of pages
+   * HTML uses elements to describe the structure of Pages. the elements of HTML called **Tags** ex <P></P>.
+   * Attributes tell  more about elements. example <p lang="en-us">Paragraph in English</p>
+   * HTML Structure show in figure bellow 
+   ![HTML Structur](https://www.nobledesktop.com/nl/image/ct-html-page.gif)
+   * the tools to write html code is text editor or online editor 
+* # HTML5 Layout
+  * ### Traditional HTML Layouts
+    - web page authors used <div> elements to group together related elements
+    - Authors used class or id attributes to indicate the role of the <div> element in the structure of the page.
+    ![Trad HTML lay](https://csharpcorner.azureedge.net/UploadFile/b5be7f/working-with-new-semantic-elements-in-html5-along-with-html/Images/Html%20Basic%20Structure%20Image.png)
+  * ### New Html5 Layout Elements
+    - HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already.
+    - figre below show html5 layout elements
+    ![HTML5 Layout](https://stuyhsdesign.files.wordpress.com/2016/05/yoko-html5.png)
+  
+
+
+
+
+   
+
+    
+
+    
+
+
