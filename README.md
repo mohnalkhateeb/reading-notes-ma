@@ -2,7 +2,7 @@
 ## How you can benefit from a growth mindset
   ######    - the growth mindset is the way to achive goals 
   ######    - Growth mindset is start with I am good and Productivity 
-![GitHub Logo](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
+![GitHub Logo ](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 
 
 ## What is the Growth Mindset
@@ -37,8 +37,10 @@
 ######    - Things like wisdom and achievement are the products of putting in hard work
 ######    - the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer.
 ######    - try to remember that short-term frustration will likely result in long-term improvement of my abilities
+ 
 
-[Markdown](https://mohnalkhateeb.github.io/reading-notes-ma/read01.md)
+
+
  
 
 
