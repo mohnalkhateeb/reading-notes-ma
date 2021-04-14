@@ -1,4 +1,4 @@
-# ** HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER**
+# HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER
 * ## Progressive Enhancement
   1- HTML only
   2- HTML + CSS

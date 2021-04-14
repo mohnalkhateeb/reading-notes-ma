@@ -41,9 +41,9 @@
 
 
 
-<<<<<<< HEAD
+
  
-=======
+
 # Table Of content
 | Summary | source |
 | --------| ------ |
@@ -51,5 +51,6 @@
 | [read02](https://replit.com/@MohammadAlkhat1/reading-notes-ma#read02.md) | [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7) |
 |[read03](https://replit.com/@MohammadAlkhat1/reading-notes-ma#read03.md)| HTML CCS Book|
 [read04a](https://replit.com/@MohammadAlkhat1/reading-notes-ma#read04a.md) | Javascript_and_jquery_interactive_jon_du |
+[read04b](https://replit.com/@MohammadAlkhat1/reading-notes-ma#read04b.md) | How does Computer Work video |
 
 
