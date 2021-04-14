@@ -15,8 +15,8 @@
   - *Statements should end with a semicolon*.
   - writting comments to explain what your code does.They help make your code easier to read and understand. This can help you and others who read your code.
     * Tow ways to write comment 
-      1- // for single line
-      2- */*  */* for multi line
+      * 1- // for single line
+      * 2- */*  */* for multi line
   - A script will have to temporarily store the bits of information it needs to do its job. It can store this data in **variables**.
   - A **variable** is a good name for this concept because the data stored in a variable can change (or vary) each time a script runs
   - The variable decleration is as this
