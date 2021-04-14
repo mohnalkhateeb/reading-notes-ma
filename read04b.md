@@ -35,7 +35,7 @@ The arthmaic oparations can achive by logical Circuit called Adder
 ###### **one bit Adder**
 ![8bitadder](https://dept-info.labri.fr/~strandh/Teaching/AMP/Common/Strandh-Tutorial/adder-8-circuit.jpg)
 
-# ** What is CPU**
+# **What is CPU**
 **A central processing unit (CPU)**, also called a central processor, main processor or just processor, is the electronic circuitry that executes instructions comprising a computer program. The CPU performs basic arithmetic, logic, controlling, and input/output (I/O) operations specified by the instructions in the program
 ![CPU](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABasicComputer.gif/370px-ABasicComputer.gif)
 
