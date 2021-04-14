@@ -13,17 +13,17 @@ Computer uses  for reading and processing of information
 * Any number can be represented by a sequence of bits (binary digits), which in turn may be represented by any mechanism capable of being in two mutually exclusive states. for example to implement the **12** in Binary :
 ![BinDec12](images/DBsys.png)
 * # Text, Images and Audios in Binary
- ### 1-  Text in Binary
+ * ### 1-  Text in Binary
  When any key on a keyboard is pressed, it needs to be converted into a binary number so that it can be processed by the computer and the typed character can appear on the screen. for example can you implement **A** Letter as 
  **A=0100 0001**
 
- ### 2- Images in Binary
+ * ### 2- Images in Binary
  Images also need to be converted into binary in order for a computer to process them so that they can be seen on our screen. Digital images are made up of pixels. Each pixel in an image is made up of binary numbers.
  ![Bimage](images/Bimag.png)
   This tool lets you combine Red, Green, and Blue light to make any RGB color. The sliders control the saturation levels of each color component, ranging from 0 (none) to 255 (full saturation).
  The slider value (saturation level) of each pure color component is shown in the side rectangles.The center shows the resulting RGB color - the combination of the Red, Green, and Blue light.
 
- ### 3- Audios in Binary
+ * ### 3- Audios in Binary
   sound is captured - usually by a microphone - and then converted into a digital signal
 
 # Circuit and Logic
@@ -32,7 +32,7 @@ A logic gate is an idealized model of computation or physical electronic device 
 
 The arthmaic oparations can achive by logical Circuit called Adder
 ![oneadder](https://i.stack.imgur.com/TpBpr.gif)
-###### *one bit Adder*
+###### **one bit Adder**
 ![8bitadder](https://dept-info.labri.fr/~strandh/Teaching/AMP/Common/Strandh-Tutorial/adder-8-circuit.jpg)
 
 # ** What is CPU**
