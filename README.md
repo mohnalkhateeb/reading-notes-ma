@@ -38,15 +38,6 @@
     - ###### the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer.
     - ###### try to remember that short-term frustration will likely result in long-term improvement of my abilities
  
-
-<<<<<<< HEAD
-
-
-
- 
-
-=======
->>>>>>> 28ea3e55ac92eda05d2d6dc1fc9b9328bf50be5d
 # Table Of content
 | Summary | source |
 | --------| ------ |
