@@ -39,11 +39,6 @@
 ######    - try to remember that short-term frustration will likely result in long-term improvement of my abilities
  
 
-
-
-<<<<<<< HEAD
- 
-=======
 # Table Of content
 | Summary | source |
 | --------| ------ |
