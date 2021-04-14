@@ -30,9 +30,9 @@
 
 
   * A variable name in JavaScript 
-      1- must be started with a letter.
-      2- can contain letters,numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name.
-      3- should not be ***keyWord*** such as ***if***
-      4-is the case sensetive: so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases.  
+      * 1- must be started with a letter.
+      * 2- can contain letters,numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name.
+      * 3- should not be ***keyWord*** such as ***if***
+      * 4-is the case sensetive: so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases.  
   
 
