@@ -11,7 +11,8 @@
   - #### Linking to a javascript file from an HTML page in this html tag
     *<script src="js/ add-content.js"></ script>*
   - #### The best palce to put scripts in their own files is the end of the body 
-  - A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a **statement**. *Statements should end with a semicolon*.
+  - A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a **statement**. 
+  - *Statements should end with a semicolon*.
   - writting comments to explain what your code does.They help make your code easier to read and understand. This can help you and others who read your code.
     * Tow ways to write comment 
       1- *// Create a ne1~ dat e object*
