@@ -5,7 +5,22 @@
   3- HTML + CSS + JavaScript
 ## Creating a Basic JavaScript 
  - #### Code below is a basic JavaScript 
+<<<<<<< HEAD
    ![JSCODE](https://www.researchgate.net/profile/Byounghyun-Yoo/publication/258509003/figure/fig13/AS:297643071819798@1447975046971/Simple-JavaScript-code-handling-the-TrackStart-event.png)
+=======
+ *var today= new Date();
+  var hourNow = today.getHours();
+  var greeting;
+  if (hourNow > 18) {
+  greeting= 'Good evening!';
+  else if (hourNow > 12) {
+  greeting = ' Good afternoon!';
+  else if (hourNow > 0) {
+  greeting = 'Good morni ng!';
+  else {
+  greeting = 'Welcome! ' ;
+  document .write( ' <h3>' +greeting + ' </ h3>');*
+>>>>>>> 73a5f44f8f94e42152fce4601f89c765783412e6
   - #### Linking to a javascript file from an HTML page in this html tag
     *<script src="js/ add-content.js"></ script>*
   - #### The best palce to put scripts in their own files is the end of the body 
@@ -23,10 +38,16 @@
       * 3 is a number
       * 'Ahmed' is a strings
       * Boolean is a true or false
+<<<<<<< HEAD
 
   - A variable name in JavaScript 
       1- must be started with a letter.
       2- can contain letters,numbers, dollar sign ($), or an underscore (_) Note that you must not use a dash(-) or a period (.) in a variable name.
+=======
+  - A variable name in JavaScript 
+      1- must be started with a letter.
+      2- can contain letters,numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name.
+>>>>>>> 73a5f44f8f94e42152fce4601f89c765783412e6
       3- should not be ***keyWord*** such as ***if***
       4-is the case sensetive: so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases.  
   
