@@ -27,9 +27,6 @@
       * Boolean is a true or false
 
 
-  - A variable name in JavaScript 
-      1- must be started with a letter.
-      2- can contain letters,numbers, dollar sign ($), or an underscore (_) Note that you must not use a dash(-) or a period (.) in a variable name.
 
   - A variable name in JavaScript 
       1- must be started with a letter.
