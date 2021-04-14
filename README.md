@@ -11,7 +11,7 @@
 ####     The image below implements the growth mind structer
 ![GitHub Logo](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2-1120x1400.png)
 
-*If we can get better at catching ourselves in those moments when our brains revert to a fixed mindset, we can pull ourselves back into growth-iness and ultimately be more successful.
+*If we can get better at catching ourselves in those moments when our brains revert to a fixed mindset, we can pull ourselves back into growth-iness and ultimately be more successful*.
 
 
 * ## Perseverance, gumption traps, and maintaining a growth mindset
