@@ -41,15 +41,13 @@
 
 * # Table Of content
 
- # Table Of content
-
-| Summary | source |
-| --------| ------ |
-| [read01] (https://mohnalkhateeb.github.io/reading-notes-ma/read01) | Mastering Markdown on GitHub |
-| [read02](https://mohnalkhateeb.github.io/reading-notes-ma/read02) | [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7) |
-| [read03](https://mohnalkhateeb.github.io/reading-notes-ma/read03) | HTML CCS Book |
-| [read04a](https://mohnalkhateeb.github.io/reading-notes-ma/read04a) | How HTML, CSS, & Javascript fit Togather |
-| [read04b](https://mohnalkhateeb.github.io/reading-notes-ma/read04b) | How does Computer Work video |
-| [read05](https://mohnalkhateeb.github.io/reading-notes-ma/read05) | comparison operator and Loop |
+  | Summary | source |
+  | --------| ------ |
+  | [read01] (https://mohnalkhateeb.github.io/reading-notes-ma/read01) | Mastering Markdown on GitHub |
+  | [read02](https://mohnalkhateeb.github.io/reading-notes-ma/read02) | [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7) |
+  | [read03](https://mohnalkhateeb.github.io/reading-notes-ma/read03) | HTML CCS Book |
+  | [read04a](https://mohnalkhateeb.github.io/reading-notes-ma/read04a) | How HTML, CSS, & Javascript fit Togather |
+  | [read04b](https://mohnalkhateeb.github.io/reading-notes-ma/read04b) | How does Computer Work video |
+  | [read05](https://mohnalkhateeb.github.io/reading-notes-ma/read05) | comparison operator and Loop |
 
 
