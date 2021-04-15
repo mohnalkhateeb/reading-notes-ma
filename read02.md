@@ -23,7 +23,7 @@ By using ***git remote -v***, you can view all the remote URLs next to their cor
  
  *This command pushes committed changes from your local “master” branch upstream to the “origin” server.*
 
- ## 4- Renaming/Removing Remotes
+ * ## 4- Renaming/Removing Remotes
    * ### 1-Rename
    To rename a remote’s short name, use the ***git remote rename*** command.
 
