@@ -43,7 +43,7 @@
 
   | Summary | source |
   | --------| ------ |
-  | [read01] (https://mohnalkhateeb.github.io/reading-notes-ma/read01) | Mastering Markdown on GitHub |
+  | [read01](https://mohnalkhateeb.github.io/reading-notes-ma/read01) | Mastering Markdown on GitHub |
   | [read02](https://mohnalkhateeb.github.io/reading-notes-ma/read02) | [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7) |
   | [read03](https://mohnalkhateeb.github.io/reading-notes-ma/read03) | HTML CCS Book |
   | [read04a](https://mohnalkhateeb.github.io/reading-notes-ma/read04a) | How HTML, CSS, & Javascript fit Togather |
