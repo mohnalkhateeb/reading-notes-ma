@@ -15,7 +15,7 @@ A text editor is a piece of software that you download and install on your compu
       ![TextEditFr](https://www.webdesignerhub.com/wp-content/uploads/2017/08/download-1.png)
       *Text Editor Featurs*
 
-# **Using The Software That Already Comes With Your Computer**
+* # **Using The Software That Already Comes With Your Computer**
 
 | Oparating System | Text Editor|
 | ---------------- | ---------- |
