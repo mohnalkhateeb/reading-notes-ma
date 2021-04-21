@@ -52,10 +52,8 @@
   | [read05](https://mohnalkhateeb.github.io/reading-notes-ma/read05) | comparison operator and Loop |
   | [read06](https://mohnalkhateeb.github.io/reading-notes-ma/read06) | JavaScrtipt: Expresion and Oparator and Function |
   | [read07](https://mohnalkhateeb.github.io/reading-notes-ma/read07) | CSS Inroduction |
-<<<<<<< HEAD
   | [read09](https://mohnalkhateeb.github.io/reading-notes-ma/read09) | Choose A Text Editor |
-=======
->>>>>>> 5fc3f22915f79ecbb2977515968f0d115c6a6602
+
 
 
   

@@ -9,18 +9,20 @@ A text editor is a piece of software that you download and install on your compu
   * #### **3- series of themes**
        A themes will allow you to change the color of the background of your text editor, the series of colors in your text, and sometimes themes will affect other aspects of your text editing software as well.
 
-  * #### ** 4- Extensions**
+  * #### **4- Extensions**
       Extensions are like plugins for your text editor, that allow you to have superpowers that you wouldn’t have otherwise. A text editor that has a great selection of extension will ensure that you have the ability to add functionality as you need it.
 
       ![TextEditFr](https://www.webdesignerhub.com/wp-content/uploads/2017/08/download-1.png)
       *Text Editor Featurs*
 
 # **Using The Software That Already Comes With Your Computer**
+
 | Oparating System | Text Editor|
 | ---------------- | ---------- |
 | Mac OS | Text Edit|
 | Windows | Notepad |
 | Linux | Gedite|
+
 * #### **Please make sure that when you use the text editor that comes on your computer**
   * 1-You should not see options for making text bold, underlined, or italic. ** *Plain text has no formatting options* **
   * 2- you should Choose the file location that is the same for all files of your website 
