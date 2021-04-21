@@ -51,10 +51,10 @@
   | [read04b](https://mohnalkhateeb.github.io/reading-notes-ma/read04b) | How does Computer Work video |
   | [read05](https://mohnalkhateeb.github.io/reading-notes-ma/read05) | comparison operator and Loop |
   | [read06](https://mohnalkhateeb.github.io/reading-notes-ma/read06) | JavaScrtipt: Expresion and Oparator and Function |
-<<<<<<< HEAD
   | [read07](https://mohnalkhateeb.github.io/reading-notes-ma/read07) | CSS Inroduction |
-=======
->>>>>>> 3d9690d464ab82a1f6d1fc5d2ab3951432bbab5a
+  | [read09](https://mohnalkhateeb.github.io/reading-notes-ma/read09) | Choose A Text Editor |
+
+
   
 
 
