@@ -53,9 +53,3 @@
   | [read06](https://mohnalkhateeb.github.io/reading-notes-ma/read06) | JavaScrtipt: Expresion and Oparator and Function |
   | [read07](https://mohnalkhateeb.github.io/reading-notes-ma/read07) | CSS Inroduction |
   | [read09](https://mohnalkhateeb.github.io/reading-notes-ma/read09) | Choose A Text Editor |
-
-
-
-  
-
-
