@@ -50,6 +50,7 @@ It is really a suite of different software all coming together. An IDE is a text
 A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 The command line typically presents you with a prompt. As you type, it will be displayed after the prompt. Most of the time you will be issuing commands.
 example : 
+
 ![comdl](images/comdl.png)
 
 * **Opening a terminal**  
@@ -65,8 +66,10 @@ There are various shells available but the most common one is called **bash** wh
 
 # **Basic Navigation**
   -  The first command we are going to learn is pwd which stands for Print Working Directory.
+
   ![pwdcmd](https://media.geeksforgeeks.org/wp-content/uploads/built-inPwd-1.png)
-  - It's one thing to know where we are. Next we'll want to know what is there. The command for this task is ls. It's short for list. Let's give it a go. 
+  - It's one thing to know where we are. Next we'll want to know what is there. The command for this task is ls. It's short for list. Let's give it a go.
+
   ![Iscmd](https://media.geeksforgeeks.org/wp-content/uploads/touch1-1.png)
 * ### **Absolute and Relative Paths**
   * Absolute paths specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
@@ -79,7 +82,7 @@ There are various shells available but the most common one is called **bash** wh
  * 3- .. (dotdot): This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
  ![pathcmd](images/pathcmd.png)
 
-# ** Files in Linux**
+# **Files in Linux**
  * ### There are three extenssion of files 
    * file.exe - an executable file, or program.
    * file.txt - a plain text file.
@@ -88,6 +91,6 @@ There are various shells available but the most common one is called **bash** wh
  * If file name contains one or more spaces , it find it in two ways :
     * 1- Quotes : ***cd 'Holiday Photos'***
     * 2- Escape : ***cd Holiday\ Photos***
-    
+
 
 
