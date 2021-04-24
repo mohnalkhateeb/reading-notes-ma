@@ -51,7 +51,7 @@
     | <aside> | Defines content aside from the content (like a sidebar) |
     | <footer> | Defines a footer for a document or a section |
     | <details> | Defines additional details that the user can open and close on demand |
-    | <summary> | Defines a heading for the <details> element |
+    | <summary> | Defines a heading for the details element |
 
     - The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
     - The new elements provide clearer code (compared with using multiple <div> elements).
@@ -105,7 +105,8 @@
     *To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.*
 
    * ### 1-	 Define the goal
-    First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
+
+     First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
 
 * ### 2-	 Design  the script
     To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart. You can then write down individual steps that the computer needs to perform in order to complete each individual task (and any information it needs to perform the task), rather like writing a recipe that it can follow.
