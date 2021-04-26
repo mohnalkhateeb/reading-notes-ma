@@ -28,7 +28,8 @@
 # **What CSS does?**
   * #### CSS allows you to create rules that specify how the content of an element should appear.
   * #### CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
-* ## ** How CSS works?**
+  
+## ** How CSS works?**
 * ## css associates rules
   * 1-CSS syntax follows a simple rule-set that consists of two principles: CSS selectors and declaration blocks.
 
