@@ -28,7 +28,7 @@
 # **What CSS does?**
   * #### CSS allows you to create rules that specify how the content of an element should appear.
   * #### CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
-# ** How CSS works?**
+* ## ** How CSS works?**
 * ## css associates rules
   * 1-CSS syntax follows a simple rule-set that consists of two principles: CSS selectors and declaration blocks.
 
@@ -117,8 +117,7 @@ Expressions rely on things called operators; they allow programmers to create a 
   * ## Evaluation of Condition and Conditional Statement
   ![constat](https://view.publitas.com/42146/346396/pages/51770fb36a7aed0fbaf255a7eb81594f9a1a9952-at1000.jpg)
 
-  ## **How can Evaluate Condition?**
-
+* ## **How can Evaluate Condition?**
 A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values. Strings are compared based on standard lexicographical ordering, using Unicode values. In most cases, if the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. This behavior generally results in comparing the operands numerically.
 
 
