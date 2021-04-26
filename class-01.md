@@ -104,11 +104,10 @@
 
     *To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.*
 
-   * ### 1-	 Define the goal
+    * ### 1-	 Define the goal
+    you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
 
-     First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
-
-* ### 2-	 Design  the script
+    * ### 2-	 Design  the script
     To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart. You can then write down individual steps that the computer needs to perform in order to complete each individual task (and any information it needs to perform the task), rather like writing a recipe that it can follow.
     * #### Designing Script task: this step is achived by flowchart for example :
       ![flowch](images/flowroom.png)
@@ -119,7 +118,7 @@
 
 
 
-* ### 3-	Code  each  step 
+    * ### 3-	Code  each  step 
     Each of the steps needs to be written in a programming language that the computer understands. In our case, this is JavaScript.
 
   * ### 2- How do computers fit in with the world around them? 
@@ -146,7 +145,7 @@
         - When you use a method, you do not always need to know how it achieves its task; you just need to know how to ask the question and how to interpret any answers it gives you.
   ### ***Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other: Events can trigger methods, and methods can retrieve or update an object's properties***
   
-  * ### 3- How do I write a script for a web page?
+ * ### 3- How do I write a script for a web page?
     * **How A browser sees a web pages?**
       * 1- Receive  a page as HTML code
         ![rechtml](images/rechtml.png)
