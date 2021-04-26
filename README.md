@@ -59,4 +59,5 @@
   | Page | Title |
   | --------| ------ |
   | [class-01](https://mohnalkhateeb.github.io/reading-notes-ma/class-01) | Introductory HTML and JavaScript |
+  | [Class-02](https://mohnalkhateeb.github.io/reading-notes-ma/class-02)| Basics of HTML, CSS & JS |
 
