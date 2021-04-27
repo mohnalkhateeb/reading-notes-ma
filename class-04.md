@@ -62,3 +62,33 @@ Functions let you group a series of statements together to perform a specific ta
 
    ![returnarray](images/funarry.png)
 
+# **Pair Programming**
+
+ **pair programming** is the practice of two developers sharing a single workstation to interactively tackle a coding task together.
+
+* ### How does pair programming work?
+
+* #### 1- The Driver
+    **The Driver** is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code. 
+* #### 2- The Navigator
+    **The Navigator** uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. 
+
+* ### Why pair program?
+    * ##### 1- Greater efficiency
+        Research indicates that pair programing takes slightly longer, but produces higher-quality code that doesn’t require later effort in troubleshooting and debugging (let alone exposing users to a broken product). Researches also identified pairing enhances technical skills, team communication, and even enjoyability of coding in the workplace.
+
+    * ##### 2- Engaged collaboration
+        It is harder to procrastinate or get off track when someone else is relying on you to complete the work. Another important aspect of learning to program is knowing when to ask for help. When developers pair program, they rely more on each other and can often find a solution together without needing to ask for additional help. Ultimately, this boosts overall confidence.
+
+    * ##### 3-  Learning from fellow students
+       If one developer has a unique approach to a specific problem, pair programming exposes the other developer to a new solution. The less experienced developer benefits from the experienced developer’s knowledge and guidance, and the latter benefits from explaining the topic in their own words, further solidifying their own understanding.
+
+    * ##### 4- Social skills 
+        When working with someone who has a different coding style, communication is key. Pair programming not only improves programming skills, but can also help programmers develop their interpersonal skills. When just grabbing the keyboard and taking over isn’t an option, getting good at finding the right words is a skill unto itself.
+
+    * ##### 5- Job interview readiness
+        For most roles, the ability to work with and learn from others and stellar communication skills are as (or more!) important to a company than specific technical skills. Pair programming strengthens all of those skills.
+
+    * ##### 6- Work environment readiness
+        Many companies that utilize pair programing expect to train fresh hires from CS-degree programs on how they operate to actually deliver a product. 
+
