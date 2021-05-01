@@ -98,7 +98,7 @@ The width and height attributes always define the width and height of the image 
 
 # **HTML Text**
 
-   * ### Typeface Terminology
+ * ### Typeface Terminology
     * ##### **1- Serif**
          - Serif fonts have extra details onthe ends of the main strokes ofthe letters.
          - Example : Georgia, Times and Times New Roman
