@@ -179,7 +179,7 @@ The width and height attributes always define the width and height of the image 
     | format | uses | Compression|
     | ------ | ---- | ---------- |
     | JPEG   | Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth.| lossy compression |
-    | PNG | Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos.| lossless compression|| GIF | Use GIF format for images that contain animations.| lossless Compression|
+    | PNG | Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos.| lossless compression || GIF | Use GIF format for images that contain animations.| lossless Compression |
 
 * #### Lossy image compression : 
     is a process that removes some of the data from your image file, reducing the overall file size. This process is irreversible, meaning that the file information will be removed permanently.
