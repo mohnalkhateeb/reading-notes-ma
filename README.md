@@ -24,4 +24,6 @@
   | [Class-02](https://mohnalkhateeb.github.io/reading-notes-ma/class-02)| Basics of HTML, CSS & JS |
   | [Class-03](https://mohnalkhateeb.github.io/reading-notes-ma/class-03) | HTML Lists, Control Flow with JS, and the CSS Box Model |
   | [Class-04](https://mohnalkhateeb.github.io/reading-notes-ma/class-04) | HTML Links, JS Functions, and Intro to CSS Layout |
+  | [Class-05](https://mohnalkhateeb.github.io/reading-notes-ma/class-05) | HTML Images; CSS Color & Text |
+  
 
