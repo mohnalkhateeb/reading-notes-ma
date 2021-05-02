@@ -52,7 +52,7 @@
     - querySelectorAll()
 
 * ### How to select an element from NodeList
-    ### 1- item()
+    - ### 1- item()
     * The **item()** method returns a node at the specified index in a NodeList object.
 
     * The nodes are sorted as they appear in the source code, and the index starts at 0.
@@ -64,7 +64,7 @@
     ***var i;***
     ***for (i = 0; i < nodelist.length; i++) {***
     ***nodelist[i].style.backgroundColor = "red";}***
-    ### 2- classname 
+    - ### 2- classname 
     * The **className** property sets or returns the class name of an element (the value of an element's class attribute).
     * Set the class for a < div > element with id="myDIV":
     ***document.getElementById("myDIV").className = "mystyle";***
@@ -85,6 +85,7 @@
 * ###### Set the text content of a node:
     ***node.textContent = text***
 ![txtcon](https://www.geeksread.com/wp-content/uploads/2018/04/Javascript-Lesson-33-DOM-Manipulating-text-and-Contenet-_SS2.jpg)
+
 * #### 2- innertext 
     * The innerText property sets or returns the text content of the specified node, and all its descendants. If you set the innerText property, any child nodes are removed and replaced by a single Text node containing the specified string.
 
