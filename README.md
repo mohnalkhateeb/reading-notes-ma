@@ -26,5 +26,7 @@
   | [Class-04](https://mohnalkhateeb.github.io/reading-notes-ma/class-04) | HTML Links, JS Functions, and Intro to CSS Layout |
   | [Class-05](https://mohnalkhateeb.github.io/reading-notes-ma/class-05) | HTML Images; CSS Color & Text |
   | [Class-06](https://mohnalkhateeb.github.io/reading-notes-ma/class-06) | Problem Domain, Objects, and the DOM |
+  | [Class-07](https://mohnalkhateeb.github.io/reading-notes-ma/class-07) | Object-Oriented Programming, HTML Tables |
+  
   
 
