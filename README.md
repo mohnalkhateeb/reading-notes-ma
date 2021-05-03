@@ -27,6 +27,7 @@
   | [Class-05](https://mohnalkhateeb.github.io/reading-notes-ma/class-05) | HTML Images; CSS Color & Text |
   | [Class-06](https://mohnalkhateeb.github.io/reading-notes-ma/class-06) | Problem Domain, Objects, and the DOM |
   | [Class-07](https://mohnalkhateeb.github.io/reading-notes-ma/class-07) | Object-Oriented Programming, HTML Tables |
+  | [Class-08](https://mohnalkhateeb.github.io/reading-notes-ma/class-08) | CSS Layout |
   
   
 
