@@ -106,3 +106,24 @@
 ### Border on Empty Cells 
  - If you have empty cells in your table, then you can use the empty-cells property to specify whether or not their borders should be shown.
  - Since browsers treat empty cells in different ways, if you want to explicitly show or hide borders on any empty cells then you should use this property.
+ - values : show,hide ,intial and inherit 
+
+### Gaps Between Cells (border-spacing, border-collapse)
+ - border-spacing
+
+ ![borderspace](https://images.comparisonnetwork123.com/img/kompyuteri/76/atribut-tablic-border-spacing-v-css_1.jpg)
+
+ - border-collapse
+
+ ![bordcoll](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS8OM5kBEPGxoJR-knaiJSCzD8-8--6Kz2gA&usqp=CAU)
+
+### Cursor Style
+- The cursor property allows you to control the type of mouse cursor that should be displayed
+to users.
+
+![cursor](https://camo.githubusercontent.com/f34fa72a5d52f7a219721e97de2ab95e5d4a2b31d9993d895a3a28540e7606a3/687474703a2f2f7765732e696f2f647261472f636f6e74656e74)
+
+
+
+
+
