@@ -124,6 +124,53 @@ to users.
 ![cursor](https://camo.githubusercontent.com/f34fa72a5d52f7a219721e97de2ab95e5d4a2b31d9993d895a3a28540e7606a3/687474703a2f2f7765732e696f2f647261472f636f6e74656e74)
 
 
+# **Events**
+### Events Types
+![typeevent](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Event-Types-1200x720.jpg)
 
+![eventypex](https://image.slidesharecdn.com/javascript-ajax-dom-manipulation-1194831365260172-2/95/javascript-ajax-dom-manipulation-16-728.jpg?cb=1194802565)
+
+### How Events Trigger Javascrips Code
+  * 1 - Select t he element node(s) you want the script to respond to.
+  * 2- Indicate which event on the selected node(s) will trigger the response.
+  * 3- State the code you want to run when the event occurs.
+
+### Event Listeners
+ - Event listeners are a more recent approach to handling events.
+ - They can deal with more than one function at a time but they are not supported in older browsers.
+
+![eventlis](https://cdn.tutsplus.com/active/uploads/legacy/flashtuts/074_EventListenersBasics/1.jpg)
+
+### Using of parameters with event handlers and listeniners
+ - Because you cannot have parentheses after the function names in event handlers or listeners passing arguments requires a workaround.
+
+ ![lisfunc](https://slideplayer.com/slide/16904176/97/images/39/PARAMETERS+WITH+EVENT+LISTENERS.jpg)
+
+### event object 
+  - When an event occurs, the event object tells you information about the event, and the element it happened upon.
+
+ - some event in IE5-8
+ ![eventie](https://i.stack.imgur.com/Q5BIy.png)
+
+### User Interface event 
+- User interface CUI) events occur as a result of interaction with the browser window rather than the HTML page contained within it, e.g., a page having loaded or the browser window being resized.
+
+![uiev](https://slideplayer.com/slide/16279781/95/images/3/%28Some%29+Event+Types+UI+events+%E2%80%93+occur+when+a+user+interacts+with+the+browser%E2%80%99s+user+interface+%28UI%29+%E2%80%93+work+with+window+object..jpg)
+
+### Focus and Blur Events
+  - The HTML elements you can interact with, such as links and form elements, can gain focus. These events fire when they gain or lose focus.
+
+  ![fbev](https://www.peachpit.com/content/images/chap4_9780321572608/elementLinks/106fig09.jpg)
+
+### Mouse Events
+![moev](https://image.slidesharecdn.com/introductiontojavascript-171002220421/95/lab-2-introduction-to-javascript-14-638.jpg?cb=1506982152)
+
+### Keyboard Events
+![keyev](https://image.slidesharecdn.com/2621049/95/javascript-21-728.jpg?cb=1259634297)
+
+### Form Events
+ - submit , input and change
+
+### 
 
 
