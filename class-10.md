@@ -81,7 +81,7 @@ execution contexts:
 
  ![debk](https://datacadamia.com/_media/web/javascript/debug/javascript_debugger_keyword_in_devtool.png)
 
- ## Handling Exceptions
+## Handling Exceptions
   - If you know your code might fail, use try, catch, and finally. Each one is given its own code block.
   - The ***try*** statement lets you test a block of code for errors.
 
@@ -90,5 +90,5 @@ execution contexts:
   - The ***throw*** statement lets you create custom errors.
 
    - The ***finally*** statement lets you execute code, after try and catch, regardless of the result.
-   
+
  ![exhand](https://miro.medium.com/max/5892/1*fxPvqJ-Tu-sFJSNFbDAA4g.png)
