@@ -37,8 +37,58 @@ execution contexts:
     | URI Error | encodeURI ().decodeURI(),and similar methods used incorrectly |
     | EvalError | eva l () function used incorrectly |
 
+    ![erorob](https://www.lambdatest.com/blog/wp-content/uploads/2018/04/Error1.png)
 
+* #### There are two things you can do with the errors : 
+  - 1- Debug The Script To Fix Error
+  - 2- Handle Errors Gracefully
 
+### Debugging
+  - Debugging is about deduction: eliminating potential causes of an error.
 
+### The JavaScript console
+ - The JavaScript console will tell you when there is a problem with a script, where to look for the problem, and what kind of issue it seems to be.
 
-    
+ - The JavaScript console is just one of several developer tools that are found in all modern browsers.
+
+ - You can Open Chrome Console as the follwing 
+ 1- ![inspect](https://developer-chrome-com.imgix.net/image/admin/yDROFVw6p2poGhkOdFKu.png?w=845)
+
+2- ![tools](https://developer-chrome-com.imgix.net/image/admin/0bZRHFrsZGxpTAWhYCg6.png?w=845)
+
+#### How to look at errors in chrome
+ - The console will show you when there is an error in your JavaScript. It also displays the line where it became a problem for the interpreter.
+
+ ![chromeerr](https://umaar.com/assets/images/dev-tips/inline-js-errors.gif)
+
+#### How to write from script to console
+ - Browsers that have a console have a console object, which has several methods that your script can use to display data in the console. The object is documented in the Console API.
+   * 1- **The console.log()** method can write data from a script to the console. If you open console- l og. html, you will see that a note is written to the console when the page loads.
+   * 2-  Such notes can tell you how far a script has run and what values it has received. In this example, the blur event causes the value entered into a text input to be logged in the console.
+   * 3- 3. Writing out variables lets you see what values the interpreter holds for them. In this example, the console will write out the values of each variable when the form is submitted.
+
+### Breakpoints
+  - You can pause the execution of a script on any line using breakpoints. Then you can check the values stored in variables at that point in time.
+
+![breakpoint](https://javascript.info/article/debugging-chrome/chrome-sources-breakpoint.svg)
+
+  - You can indicate that a breakpoint should be triggered only if a condition that you specify is met. The condition can use existing variables. this is called **Conditional Breakpoint**
+
+  ![conbreak](https://davidwalsh.name/demo/conditional-breakpoints/1.png)
+
+### Debugger Keyword
+ - You can create a breakpoint in your code using just the debugger keyword. When the developer tools are open, this will automatically create a breakpoint.
+
+ ![debk](https://datacadamia.com/_media/web/javascript/debug/javascript_debugger_keyword_in_devtool.png)
+
+ ## Handling Exceptions
+  - If you know your code might fail, use try, catch, and finally. Each one is given its own code block.
+  - The ***try*** statement lets you test a block of code for errors.
+
+  - The ***catch*** statement lets you handle the error.
+
+  - The ***throw*** statement lets you create custom errors.
+
+   - The ***finally*** statement lets you execute code, after try and catch, regardless of the result.
+   
+ ![exhand](https://miro.medium.com/max/5892/1*fxPvqJ-Tu-sFJSNFbDAA4g.png)
