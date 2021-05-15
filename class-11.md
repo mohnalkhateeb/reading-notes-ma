@@ -36,7 +36,7 @@
 
  ![backpos](https://www.tutorialrepublic.com/lib/images/background-position-illustration.png)
 
- # **Practical Information**
+# **Practical Information**
 
  * ### Search Engine Optimization (SEO)
   - Search engine optimization h XX elps visitors find your sites when using search engines
