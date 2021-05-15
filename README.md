@@ -30,6 +30,6 @@
   | [Class-08](https://mohnalkhateeb.github.io/reading-notes-ma/class-08) | CSS Layout |
   | [Class-09](https://mohnalkhateeb.github.io/reading-notes-ma/class-09) | Forms and JS Events |
   | [Class-10](https://mohnalkhateeb.github.io/reading-notes-ma/class-10) | Error Handling Debugging |
-  
+  | [Class-11](https://mohnalkhateeb.github.io/reading-notes-ma/class-11) | Audio, Video, Images |
   
 
