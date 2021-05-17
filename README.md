@@ -31,5 +31,6 @@
   | [Class-09](https://mohnalkhateeb.github.io/reading-notes-ma/class-09) | Forms and JS Events |
   | [Class-10](https://mohnalkhateeb.github.io/reading-notes-ma/class-10) | Error Handling Debugging |
   | [Class-11](https://mohnalkhateeb.github.io/reading-notes-ma/class-11) | Audio, Video, Images |
+  | [Class-12](https://mohnalkhateeb.github.io/reading-notes-ma/class-12) | Chart.js, Canvas |
   
 

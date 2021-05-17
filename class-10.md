@@ -82,6 +82,7 @@ execution contexts:
  ![debk](https://datacadamia.com/_media/web/javascript/debug/javascript_debugger_keyword_in_devtool.png)
 
 ## Handling Exceptions
+
   - If you know your code might fail, use try, catch, and finally. Each one is given its own code block.
   - The ***try*** statement lets you test a block of code for errors.
 
