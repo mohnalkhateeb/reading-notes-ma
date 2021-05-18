@@ -15,13 +15,13 @@ is a way for web pages to store named key/value pairs locally, within the client
   * Local storge has four basic methods 
   ![localmethod](https://res.cloudinary.com/practicaldev/image/fetch/s--rSskJpsi--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2imjutnczd4f3jdhgbdx.png) 
 
-  ###  StorageEvent Object
+###  StorageEvent Object
    A StorageEvent is sent to a window when a storage area it has access to is changed within the context of another document.
 
    * #### StorageEvent Object properties
    ![stobp](https://www.programmersought.com/images/35/8fc50290594cf12a3769afd0b4b40cd3.png)
 
 
-   
+
 
 
