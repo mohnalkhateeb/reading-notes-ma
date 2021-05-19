@@ -33,5 +33,6 @@
   | [Class-11](https://mohnalkhateeb.github.io/reading-notes-ma/class-11) | Audio, Video, Images |
   | [Class-12](https://mohnalkhateeb.github.io/reading-notes-ma/class-12) | Chart.js, Canvas |
   | [Class-13](https://mohnalkhateeb.github.io/reading-notes-ma/class-13) | Local Storage |
+   | [Class-14a](https://mohnalkhateeb.github.io/reading-notes-ma/class-14a) | CSS Transform , Transitions and Animations |
   
 
