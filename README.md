@@ -37,9 +37,9 @@
   | [Class-14b](https://mohnalkhateeb.github.io/reading-notes-ma/class-14b) | What Google Learned From Its Quest to Build the Perfect Team |
 
  * # Code 301 - Intermediate Software Development
- 
-  | Page | Title |
-  | -------- | ------ |
-  | [class-301](https://mohnalkhateeb.github.io/reading-notes-ma/class-301) | Introduction to React and Components |
+
+ | Page | Title |
+ | --------| ------ |
+ | [class-301](https://mohnalkhateeb.github.io/reading-notes-ma/class-301) | Introduction to React and Components |
   
 
