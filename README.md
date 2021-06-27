@@ -41,5 +41,6 @@
  | Page | Title |
  | --------| ------ |
  | [class-301](https://mohnalkhateeb.github.io/reading-notes-ma/class-301) | Introduction to React and Components |
+ | [class-302](https://mohnalkhateeb.github.io/reading-notes-ma/class-302) | State and Props |
   
 
