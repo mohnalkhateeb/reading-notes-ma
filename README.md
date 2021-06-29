@@ -43,5 +43,6 @@
  | [class-301](https://mohnalkhateeb.github.io/reading-notes-ma/class-301) | Introduction to React and Components |
  | [class-302](https://mohnalkhateeb.github.io/reading-notes-ma/class-302) | State and Props |
  | [class-303](https://mohnalkhateeb.github.io/reading-notes-ma/class-303) | Passing Functions as Props |
+ | [class-304](https://mohnalkhateeb.github.io/reading-notes-ma/class-304) | React and Forms |
   
 
