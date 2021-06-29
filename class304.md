@@ -17,10 +17,10 @@
     we use a ternary operator to specify that a certain block of code should be executed if a certain condition is met.
 
 * #### Rewrite the following statement using a ternary statement:
-        ***if(x===y){
-        console.log(true);
-        } else {
-        console.log(false);
-        }***
+    ***if(x===y){
+    console.log(true);
+    } else {
+    console.log(false);
+     }***
 
     - (x===y) ? console.log(true) : console.log(false)
