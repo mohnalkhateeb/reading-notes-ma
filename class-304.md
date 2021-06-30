@@ -21,6 +21,7 @@
 
 * #### Rewrite the following statement using a ternary statement:
 
+
     if(x===y){
     console.log(true);
     } else {
