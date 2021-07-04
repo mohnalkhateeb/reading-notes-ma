@@ -45,5 +45,6 @@
  | [class-303](https://mohnalkhateeb.github.io/reading-notes-ma/class-303) | Passing Functions as Props |
  | [class-304](https://mohnalkhateeb.github.io/reading-notes-ma/class-304) | React and Forms |
  | [class-305](https://mohnalkhateeb.github.io/reading-notes-ma/class-305) | Putting it all together |
+ | [class-306](https://mohnalkhateeb.github.io/reading-notes-ma/class-306) | NODE.JS and Pair Programming |
   
 
