@@ -46,5 +46,6 @@
  | [class-304](https://mohnalkhateeb.github.io/reading-notes-ma/class-304) | React and Forms |
  | [class-305](https://mohnalkhateeb.github.io/reading-notes-ma/class-305) | Putting it all together |
  | [class-306](https://mohnalkhateeb.github.io/reading-notes-ma/class-306) | NODE.JS and Pair Programming |
+ | [class-307](https://mohnalkhateeb.github.io/reading-notes-ma/class-307) | REST |
   
 
