@@ -1,4 +1,4 @@
-# **REST **
+# **REST**
 * ### Who is Roy Fielding?
     He is a person that helped to write (HTTP)  as the first web servers, that sent documents across the internet… and then he did a ton of research explaining why the web works the way it does. His name is on the specification for the protocol that is used to get pages from servers to your browser.
 
