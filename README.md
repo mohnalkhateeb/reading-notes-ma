@@ -48,5 +48,6 @@
  | [class-306](https://mohnalkhateeb.github.io/reading-notes-ma/class-306) | NODE.JS and Pair Programming |
  | [class-307](https://mohnalkhateeb.github.io/reading-notes-ma/class-307) | REST |
  | [class-308](https://mohnalkhateeb.github.io/reading-notes-ma/class-308) |  APIs | 
+ | [class-309](https://mohnalkhateeb.github.io/reading-notes-ma/class-309) |  Functional Programming |
   
 
