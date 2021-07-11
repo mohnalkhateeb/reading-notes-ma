@@ -6,7 +6,8 @@
  | -------- | ------ |
  | are table based databases whereas | databases are document based, key-value pairs, graph databases or wide-column stores|
  |  have predefined schema |  have dynamic schema for unstructured data. |
- | are scaled by increasing the horse-power of the hardware | are scaled by increasing the databases || are good fit for the complex query intensive environment | are not good fit for complex queries |
+ | are scaled by increasing the horse-power of the hardware | are scaled by increasing the databases |
+ | are good fit for the complex query intensive environment | are not good fit for complex queries |
  | are not best fit for hierarchical data storage | fits better for the hierarchical data storage | 
  | are vertically scalable. You can manage increasing load by increasing the CPU, RAM, SSD, etc, on a single server | are horizontally scalable. You can just add few more servers easily in your NoSQL database infrastructure to handle the large traffic. |
 
