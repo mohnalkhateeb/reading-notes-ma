@@ -1,5 +1,7 @@
 # **Mongo and Mongoose**
 * ### Fill in the chart below with five differences between SQL and NoSQL databases
+
+
  |   SQL | NoSQL |
  | -------- | ------ |
  | are table based databases whereas | databases are document based, key-value pairs, graph databases or wide-column stores|
