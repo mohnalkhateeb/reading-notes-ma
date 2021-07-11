@@ -51,5 +51,6 @@
  | [class-309](https://mohnalkhateeb.github.io/reading-notes-ma/class-309) |  Functional Programming |
  | [class-310](https://mohnalkhateeb.github.io/reading-notes-ma/class-310) |  In memory storage |
  | [class-311](https://mohnalkhateeb.github.io/reading-notes-ma/class-311) |  Authentication |
+ | [class-312](https://mohnalkhateeb.github.io/reading-notes-ma/class-312) |  Mongo and Mongoose |
   
 
