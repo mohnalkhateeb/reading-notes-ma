@@ -52,5 +52,6 @@
  | [class-310](https://mohnalkhateeb.github.io/reading-notes-ma/class-310) |  In memory storage |
  | [class-311](https://mohnalkhateeb.github.io/reading-notes-ma/class-311) |  Authentication |
  | [class-312](https://mohnalkhateeb.github.io/reading-notes-ma/class-312) |  Mongo and Mongoose |
+ | [class-313](https://mohnalkhateeb.github.io/reading-notes-ma/class-313) | CRUD |
   
 
