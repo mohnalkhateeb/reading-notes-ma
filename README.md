@@ -53,5 +53,6 @@
  | [class-311](https://mohnalkhateeb.github.io/reading-notes-ma/class-311) |  Authentication |
  | [class-312](https://mohnalkhateeb.github.io/reading-notes-ma/class-312) |  Mongo and Mongoose |
  | [class-313](https://mohnalkhateeb.github.io/reading-notes-ma/class-313) | CRUD |
+ [class-315](https://mohnalkhateeb.github.io/reading-notes-ma/class-315) | Project Kickoff |
   
 
