@@ -1,10 +1,10 @@
 
- #  **Reading Notes**
+ # **Reading Notes**
 
  ## **Code 102 - Intro to Software Development**
 
  | page | Title |
- | --------| ------ |
+ | -------- | ------ |
  | [Growth.md](https://mohnalkhateeb.github.io/reading-notes-ma/Growth) | Growth Mindset |
  | [read01](https://mohnalkhateeb.github.io/reading-notes-ma/read01) | Mastering Markdown on GitHub |
  | [read02](https://mohnalkhateeb.github.io/reading-notes-ma/read02) | [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7) |
@@ -19,7 +19,7 @@
  ## **Code 201 - Foundations of Software Development**
 
  | Page | Title |
- | --------| ------ |
+ | -------- | ------ |
  | [class-01](https://mohnalkhateeb.github.io/reading-notes-ma/class-01) | Introductory HTML and JavaScript |
  | [Class-02](https://mohnalkhateeb.github.io/reading-notes-ma/class-02)| Basics of HTML, CSS & JS |
  | [Class-03](https://mohnalkhateeb.github.io/reading-notes-ma/class-03) | HTML Lists, Control Flow with JS, and the CSS Box Model |
@@ -39,7 +39,7 @@
   ## **Code 301 - Intermediate Software Development**
 
  | Page | Title |
- | --------| ------ |
+ | -------- | ------ |
  | [class-301](https://mohnalkhateeb.github.io/reading-notes-ma/class-301) | Introduction to React and Components |
  | [class-302](https://mohnalkhateeb.github.io/reading-notes-ma/class-302) | State and Props |
  | [class-303](https://mohnalkhateeb.github.io/reading-notes-ma/class-303) | Passing Functions as Props |
@@ -58,7 +58,7 @@
    ## **Code 401 - Advanced Software Development**
 
  | Page | Title |
- | --------| ------ |
+ | -------- | ------ |
 
 
   
