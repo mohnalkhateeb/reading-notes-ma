@@ -1,6 +1,8 @@
 
 # **Reading Notes**
 
+##### Here, you will find all the summaries that I made during my study of the software development course
+
 * ## Code 102 - Intro to Software Development
 
  | page | Title |
