@@ -1,7 +1,7 @@
 
- # **Reading Notes**
+# **Reading Notes**
 
- * ## Code 102 - Intro to Software Development
+* ## Code 102 - Intro to Software Development
  | page | Title |
  | -------- | ------ |
  | [Growth.md](https://mohnalkhateeb.github.io/reading-notes-ma/Growth) | Growth Mindset |
@@ -15,7 +15,7 @@
  | [read07](https://mohnalkhateeb.github.io/reading-notes-ma/read07) | CSS Inroduction |
  | [read09](https://mohnalkhateeb.github.io/reading-notes-ma/read09) | Choose A Text Editor |
 
- * ## Code 201 - Foundations of Software Development
+* ## Code 201 - Foundations of Software Development
  | Page | Title |
  | -------- | ------ |
  | [class-01](https://mohnalkhateeb.github.io/reading-notes-ma/class-01) | Introductory HTML and JavaScript |
@@ -34,7 +34,7 @@
  | [Class-14a](https://mohnalkhateeb.github.io/reading-notes-ma/class-14a) | CSS Transform , Transitions and Animations |
  | [Class-14b](https://mohnalkhateeb.github.io/reading-notes-ma/class-14b) | What Google Learned From Its Quest to Build the Perfect Team |
 
-  * ## Code 301 - Intermediate Software Development
+* ## Code 301 - Intermediate Software Development
  | Page | Title |
  | -------- | ------ |
  | [class-301](https://mohnalkhateeb.github.io/reading-notes-ma/class-301) | Introduction to React and Components |
@@ -53,7 +53,7 @@
  | [class-315](https://mohnalkhateeb.github.io/reading-notes-ma/class-315) | Project Kickoff |
 
 
- * ## Code 401 - Advanced Software Development
+* ## Code 401 - Advanced Software Development
  | Page | Title |
  | -------- | ------ |
  |          |        |
