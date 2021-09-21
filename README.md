@@ -2,7 +2,6 @@
  # **Reading Notes**
 
  * ## Code 102 - Intro to Software Development
-
  | page | Title |
  | -------- | ------ |
  | [Growth.md](https://mohnalkhateeb.github.io/reading-notes-ma/Growth) | Growth Mindset |
@@ -17,7 +16,6 @@
  | [read09](https://mohnalkhateeb.github.io/reading-notes-ma/read09) | Choose A Text Editor |
 
  * ## Code 201 - Foundations of Software Development
-
  | Page | Title |
  | -------- | ------ |
  | [class-01](https://mohnalkhateeb.github.io/reading-notes-ma/class-01) | Introductory HTML and JavaScript |
@@ -37,7 +35,6 @@
  | [Class-14b](https://mohnalkhateeb.github.io/reading-notes-ma/class-14b) | What Google Learned From Its Quest to Build the Perfect Team |
 
   * ## Code 301 - Intermediate Software Development
-
  | Page | Title |
  | -------- | ------ |
  | [class-301](https://mohnalkhateeb.github.io/reading-notes-ma/class-301) | Introduction to React and Components |
@@ -57,7 +54,6 @@
 
 
  * ## Code 401 - Advanced Software Development
-
  | Page | Title |
  | -------- | ------ |
  |          |        |
