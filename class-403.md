@@ -61,4 +61,5 @@
 
 * ## Scanning
     Objects of type Scanner are useful for breaking down formatted input into tokens and translating individual tokens according to their data type.
-    ![scanner](http://www.btechsmartclass.com/java/java_images/java-Scanner-class-example.png)
+    
+    ![scanner](https://appdividend.com/wp-content/uploads/2019/05/Scanner-Class-in-Java-Tutorial-With-Example.png)
