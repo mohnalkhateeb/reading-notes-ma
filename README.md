@@ -70,6 +70,7 @@
  | [class-401](https://mohnalkhateeb.github.io/reading-notes-ma/class-401) | Java Basics |
  | [class-402](https://mohnalkhateeb.github.io/reading-notes-ma/class-402) | Arrays, Loops, Imports |
  | [class-403](https://mohnalkhateeb.github.io/reading-notes-ma/class-403) |  Maps, primitives, File I/O |
+ | [class-404](https://mohnalkhateeb.github.io/reading-notes-ma/class-404) |  OOP |
 
   
 
