@@ -8,7 +8,7 @@
     - Memory Space complexity : The amount of memory resources a function uses to store data and instructions.
     
     
-    #### we should consider 4 Key Areas for analysis:
+    * #### we should consider 4 Key Areas for analysis:
     - ##### Input Size
         Input Size refers to the size of the parameter values that are read by the algorithm. This does not simply refer to the number of parameters an algorithm reads, but takes into account the size of each parameter value as well.
 
