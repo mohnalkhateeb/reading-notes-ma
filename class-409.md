@@ -1,7 +1,7 @@
 #  WRRC and Java
 ## The HTTP Request Lifecycle
 * #### Step 1: Local Processing
-    -  browser extracts the "scheme"/protocol (we have established that this will be HTTP), host (www.example.com), and optional port number, resource path, and query strings that are specified in the form ***< protocol >://< host ><:optional port>/< path/to/resource><?query >. An example is |http|://|www.example.com||:5000||/mainpage||?query=param&query2=param2|***
+    -  browser extracts the "scheme"/protocol (we have established that this will be HTTP), host (www.example.com), and optional port number, resource path, and query strings 
 
     - Now that the browser has the intended hostname for the request, it needs to resolve an IP address1. The browser will then look through its own cache of recently requested URLs, the operating system’s cache of recent queries, your router’s cache, and your DNS cache.
 
@@ -20,7 +20,7 @@
     - In the third step, the client sends an ACK message back to the server with a sequence nWe now have a completed three-way handshake and an established connection where both the client and server have received acknowledgment of the connection from the other party.
 
 * #### Step 4: Send an HTTP Request
-    - The request is made up of a "request line", request header, and a body. The "request line" is simply a line that indicates the HTTP method, the resource being requested, and the protocol version. The header of the request is made up of pairs in the form name:value <CR><LF>. Two consecutive <CR><LF> pairs indicate the end of the header section. The only mandatory field in an HTTP request is HOST, which contains the domain and port that the request is being sent to (domain.com:8080), although in some cases the port can be omitted. Outside of the host field, common standard HTTP header fields include Origin, Accept, Accept-Encoding, and many more. The request can also include any non-standard header fields, and historically non-standard fields are indicated by prefixing X- to the field’s name. The body content of an HTTP request is completely optional, but often contains something like form data or JSON.
+    - The request is made up of a "request line", request header, and a body. The "request line" is simply a line that indicates the HTTP method, the resource being requested, and the protocol version. The header of the request is made up of pairs in the form name:value < CR >< LF >. Two consecutive < CR >< LF > pairs indicate the end of the header section. The only mandatory field in an HTTP request is HOST, which contains the domain and port that the request is being sent to (domain.com:8080), although in some cases the port can be omitted. Outside of the host field, common standard HTTP header fields include Origin, Accept, Accept-Encoding, and many more. The request can also include any non-standard header fields, and historically non-standard fields are indicated by prefixing X- to the field’s name. The body content of an HTTP request is completely optional, but often contains something like form data or JSON.
     - Once the HTTP request is sent, it follows a similar routing procedure as the one discussed earlier, with the difference being that using TCPs magic sequence number powers, the server can ensure it receives the whole request, in the correct order.
     - Once the server receives the request, processes it, and finds the resource being requested, it generates an HTTP response. An HTTP response has a similar structure to an HTTP request, containing a "status line", response header fields, and an optional body. The status line contains an HTTP status code indicating the success, failure, or error-state of the request along with a "reason message" that provides detail.
     - Once the response is generated, the server responds to the request. At the TCP layer, the client receives the first data packet, the first byte of which should contain the HTTP response header. More packets start coming in, and at the TCP layer they are re-ordered as needed. For every two packets that the client receives at the TCP layer, it sends an ACK message to the server. This goes on until the response is (hopefully) fully loaded.
@@ -36,11 +36,14 @@
 * #### Creating a Request
     - create an HttpUrlConnection instance using the openConnection() method of the URL class.
     - The HttpUrlConnection class is used for all types of requests by setting the requestMethod attribute to one of the values: GET, POST, HEAD, OPTIONS, PUT, DELETE, TRACE.
+
     ***URL url = new URL("http://example.com");***
     ***HttpURLConnection con = (HttpURLConnection) url.openConnection();***
     ***con.setRequestMethod("GET");***
+
 * #### Adding Request Parameters
     - set the doOutput property to true, then write a String of the form param1=value¶m2=value to the OutputStream of the HttpUrlConnection instance:
+
     ***Map< String, String > parameters = new HashMap<>();***
     ***parameters.put("param1", "val");***
     ***con.setDoOutput(true);***
@@ -48,57 +51,78 @@
     ***out.writeBytes(ParameterStringBuilder.getParamsString(parameters));***
     ***out.flush();***
     ***out.close();***
+
 * #### Setting Request Headers
     - to set requset header
+
     ***con.setRequestProperty("Content-Type", "application/json");***
+
     - to get requset header 
+
     ***String contentType = con.getHeaderField("Content-Type");***
+
 * #### Configuring Timeouts
     - HttpUrlConnection class allows setting the connect and read timeouts. These values define the interval of time to wait for the connection to the server to be established or data to be available for reading.
-    ***con.setConnectTimeout(5000);
-    con.setReadTimeout(5000);***
+
+    ***con.setConnectTimeout(5000);***
+    ***con.setReadTimeout(5000);***
 
 * #### Handling Cookies
     - First, to read the cookies from a response, we can retrieve the value of the Set-Cookie header and parse it to a list of HttpCookie objects:
-    ***String cookiesHeader = con.getHeaderField("Set-Cookie");
-    List< HttpCookie > cookies = HttpCookie.parse(cookiesHeader);***
+
+    ***String cookiesHeader = con.getHeaderField("Set-Cookie");***
+    ***List< HttpCookie > cookies = HttpCookie.parse(cookiesHeader);***
 
     - add the cookies to the cookie store:
+
     ***cookies.forEach(cookie -> cookieManager.getCookieStore().add(null, cookie));***
+
     - check if a cookie called username is present, and if not, 
 
     ***Optional< HttpCookie > usernameCookie = cookies.stream() .findAny().filter(cookie -> cookie.getName().equals("username"));***
     ***if (usernameCookie == null) {***
     ***cookieManager.getCookieStore().add(null, new HttpCookie("username", "john"));}***
     - add the cookies to the request, we need to set the Cookie header, after closing and reopening the connection:
+
     ***con.disconnect();***
     ***con = (HttpURLConnection) url.openConnection();***
     ***con.setRequestProperty("Cookie",StringUtils.join(cookieManager.getCookieStore().getCookies(), ";"));***
 
 * #### Handling Redirects
     - enable or disable automatically following redirects for a specific connection by using the setInstanceFollowRedirects() method with true or false parameter:
+
     **con.setInstanceFollowRedirects(false);**
 
     - enable or disable automatic redirect for all connections:
+
     ***HttpUrlConnection.setFollowRedirects(false);***
+
 * #### Reading the Response
     - To execute the request, we can use the getResponseCode(), connect(), getInputStream() or getOutputStream() methods:
+
     ***int status = con.getResponseCode();***
+
     - read the response of the request and place it in a content String:
+
     ***BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));***
     ***String inputLine;***
     ***StringBuffer content = new StringBuffer();***
     ***while ((inputLine = in.readLine()) != null) {content.append(inputLine);}***
     ***in.close();***
+
     - To close the connection, we can use the disconnect() method:
+
      ***con.disconnect();***
 
 * #### Reading the Response on Failed Requests
     - We can decide which InputStream to use by comparing the HTTP status code:
+
     ***int status = con.getResponseCode();***
     ***Reader streamReader = null;***
     ***if (status > 299) {streamReader = new InputStreamReader(con.getErrorStream());}*** 
     ***else {streamReader = new InputStreamReader(con.getInputStream());}***
+
 * #### Building the Full Response
     - we can build it using some of the methods that the HttpUrlConnection instance offers:
+
         ***StringBuilder fullResponseBuilder = new StringBuilder();***
