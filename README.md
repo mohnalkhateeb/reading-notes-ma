@@ -75,6 +75,7 @@
  | [class-406](https://mohnalkhateeb.github.io/reading-notes-ma/class-406) |  Inheritance and Interfaces |
  [class-408](https://mohnalkhateeb.github.io/reading-notes-ma/class-408) |  OO Design |
  [class-409](https://mohnalkhateeb.github.io/reading-notes-ma/class-409) |  WRRC and Java |
+ [class-410](https://mohnalkhateeb.github.io/reading-notes-ma/class-410) |  Stacks and Queues |
 
   
 
