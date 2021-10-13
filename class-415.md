@@ -1,7 +1,9 @@
 # Trees
 ## What is a binary Tree
   A binary tree is a tree-type non-linear data structure with a maximum of two children for each parent. Every node in a binary tree has a left and right reference along with the data element. The node at the top of the hierarchy of a tree is called the root node. The nodes that hold other sub-nodes are the parent nodes.
-  ![tree](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTpmMViWtoH23pYTmlb9gbcf307hVEB62zVw&usqp=CAU)
+
+   ![tree](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTpmMViWtoH23pYTmlb9gbcf307hVEB62zVw&usqp=CAU)
+
 
 ## Common Terminology
 - Node - A Tree node is a component which may contain it’s own values, and references to other nodes
@@ -17,19 +19,30 @@
 
 * ### 1- Depth First
     Depth first traversal is where we prioritize going through the depth (height) of the tree first. There are multiple ways to carry out depth first traversal, and each method changes the order in which we search/print the root
-        - **Pre-order: root >> left >> right**
+
+    - **Pre-order: root >> left >> right**
+
         ![preorder](https://upload.wikimedia.org/wikipedia/commons/a/ac/Preorder-traversal.gif)
-        - **In-order: left >> root >> right**
+
+    - **In-order: left >> root >> right**
+
         ![inorder](https://upload.wikimedia.org/wikipedia/commons/4/48/Inorder-traversal.gif)
-        - **Post-order: left >> right >> root**
-        ![postOrder](https://upload.wikimedia.org/wikipedia/commons/2/28/Postorder-traversal.gif)
+
+    - **Post-order: left >> right >> root**
+
+       ![postOrder](https://upload.wikimedia.org/wikipedia/commons/2/28/Postorder-traversal.gif)
+
     The most common way to traverse through a tree is to use recursion. With these traversals, we rely on the call stack to navigate back up the tree when we have reached the end of a sub-path
+
 * ### 2- Breadth First
+
     Breadth first traversal iterates through the tree by going through each level of the tree node-by-node. So, given our starting tree one more time
+
     ![Beadthf](https://lifelongdev.com/wp-content/uploads/2021/01/BFSInAction.gif)
 
 * ## Binary Tree Vs K-ary Trees
     If Nodes are able have more than 2 child nodes, we call the tree that contains them a K-ary Tree. In this type of tree we use K to refer to the maximum number of children that each Node is able to have.
+    
     ![k-ary-tree](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/KaryTree1.png)
 
 * ### Adding a node
