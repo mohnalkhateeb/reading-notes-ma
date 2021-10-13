@@ -79,6 +79,7 @@
  [class-411](https://mohnalkhateeb.github.io/reading-notes-ma/class-411) |  Spring |
  [class-412](https://mohnalkhateeb.github.io/reading-notes-ma/class-412) |  Spring RESTful Routing & Static Files |
  [class-413](https://mohnalkhateeb.github.io/reading-notes-ma/class-413) |  Related Resources and Integration Testing |
+ [class-414](https://mohnalkhateeb.github.io/reading-notes-ma/class-414) |  BCrypt |
  [class-415](https://mohnalkhateeb.github.io/reading-notes-ma/class-415) |  Trees |
 
   
