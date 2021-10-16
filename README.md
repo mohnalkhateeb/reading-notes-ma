@@ -81,6 +81,7 @@
  [class-413](https://mohnalkhateeb.github.io/reading-notes-ma/class-413) |  Related Resources and Integration Testing |
  [class-414](https://mohnalkhateeb.github.io/reading-notes-ma/class-414) |  BCrypt |
  [class-415](https://mohnalkhateeb.github.io/reading-notes-ma/class-415) |  Trees |
+ [class-416](https://mohnalkhateeb.github.io/reading-notes-ma/class-416) |  Trees |
 
   
 
