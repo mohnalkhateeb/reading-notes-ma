@@ -82,6 +82,6 @@
  [class-414](https://mohnalkhateeb.github.io/reading-notes-ma/class-414) |  BCrypt |
  [class-415](https://mohnalkhateeb.github.io/reading-notes-ma/class-415) |  Trees |
  [class-416](https://mohnalkhateeb.github.io/reading-notes-ma/class-416) |  Spring Authentication |
-
+ [class-417](https://mohnalkhateeb.github.io/reading-notes-ma/class-417) |  Spring Authentication (OAuth) |
   
 
