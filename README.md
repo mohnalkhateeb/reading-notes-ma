@@ -84,5 +84,6 @@
  [class-416](https://mohnalkhateeb.github.io/reading-notes-ma/class-416) |  Spring Authentication |
  [class-417](https://mohnalkhateeb.github.io/reading-notes-ma/class-417) |  Spring Authentication (OAuth) |
  [class-418](https://mohnalkhateeb.github.io/reading-notes-ma/class-418) |  Web App Security |
+ [class-419](https://mohnalkhateeb.github.io/reading-notes-ma/class-419) |  Spring and Sockets |
   
 
