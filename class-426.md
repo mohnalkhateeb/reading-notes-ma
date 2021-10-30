@@ -45,7 +45,7 @@ A service is a general-purpose entry point for keeping an app running in the bac
  is a component that enables the system to deliver events to the app outside of a regular user flow, allowing the app to respond to system-wide broadcast announcements. Because broadcast receivers are another well-defined entry into the app, the system can deliver broadcasts even to apps that aren't currently running. 
  - A `broadcast receiver` is implemented as a subclass of `BroadcastReceiver` and each broadcast is delivered as an Intent object.
 
- #### Content providers
+#### Content providers
 
   A content provider manages a shared set of app data that you can store in the file system, in a SQLite database, on the web, or on any other persistent storage location that your app can access. Through the content provider, other apps can query or modify the data if the content provider allows it.
 
