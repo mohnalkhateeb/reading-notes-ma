@@ -86,6 +86,7 @@
  | [class-418](https://mohnalkhateeb.github.io/reading-notes-ma/class-418) |  Web App Security |
  | [class-419](https://mohnalkhateeb.github.io/reading-notes-ma/class-419) |  Spring and Sockets |
  | [class-426](https://mohnalkhateeb.github.io/reading-notes-ma/class-426) |  Android Fundamentals |
+ | [class-427](https://mohnalkhateeb.github.io/reading-notes-ma/class-427) |  Intents, Activities, and SharedPreferences |
 
   
 
