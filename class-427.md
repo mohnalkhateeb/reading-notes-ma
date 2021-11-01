@@ -48,24 +48,24 @@ A task is a collection of activities that users interact with when trying to do 
     - **singleInstance** : Same as "singleTask", except that the system doesn't launch any other activities into the task holding the instance. The activity is always the single and only member of its task; any activities started by this one open in a separate task.
     ![singletask](https://developer.android.com/images/fundamentals/diagram_backstack_singletask_multiactivity.png)
 
-    #### Define launch modes using Intent flags
-    - **`FLAG_ACTIVITY_NEW_TASK`** :Start the activity in a new task. If a task is already running for the activity you are now starting, that task is brought to the foreground with its last state restored and the activity receives the new intent in `onNewIntent()`. This produces the same behavior as the **"singleTask"** `launchMode` value, discussed in the previous
-    - **`FLAG_ACTIVITY_SINGLE_TOP`** : If the activity being started is the current activity (at the top of the back stack), then the existing instance receives a call to `onNewIntent()`, instead of creating a new instance of the activity. This produces the same behavior as the *"singleTop"* `launchMode` value, discussed in the previous section.
-    - **`FLAG_ACTIVITY_CLEAR_TOP`** : If the activity being started is already running in the current task, then instead of launching a new instance of that activity, all of the other activities on top of it are destroyed and this intent is delivered to the resumed instance of the activity (now on top), through `onNewIntent()`). There is no value for the launchMode attribute that produces this behavior. `FLAG_ACTIVITY_CLEAR_TOP` is most often used in conjunction with `FLAG_ACTIVITY_NEW_TASK`. When used together, these flags are a way of locating an existing activity in another task and putting it in a position where it can respond to the intent.
+#### Define launch modes using Intent flags
+- **`FLAG_ACTIVITY_NEW_TASK`** :Start the activity in a new task. If a task is already running for the activity you are now starting, that task is brought to the foreground with its last state restored and the activity receives the new intent in `onNewIntent()`. This produces the same behavior as the **"singleTask"** `launchMode` value, discussed in the previous
+- **`FLAG_ACTIVITY_SINGLE_TOP`** : If the activity being started is the current activity (at the top of the back stack), then the existing instance receives a call to `onNewIntent()`, instead of creating a new instance of the activity. This produces the same behavior as the *"singleTop"* `launchMode` value, discussed in the previous section.
+ - **`FLAG_ACTIVITY_CLEAR_TOP`** : If the activity being started is already running in the current task, then instead of launching a new instance of that activity, all of the other activities on top of it are destroyed and this intent is delivered to the resumed instance of the activity (now on top), through `onNewIntent()`). There is no value for the launchMode attribute that produces this behavior. `FLAG_ACTIVITY_CLEAR_TOP` is most often used in conjunction with `FLAG_ACTIVITY_NEW_TASK`. When used together, these flags are a way of locating an existing activity in another task and putting it in a position where it can respond to the intent.
 
-    #### Handle affinities
-    - An affinity indicates which task an activity prefers to belong to. By default, all the activities from the same app have an affinity for each other. So, by default, all activities in the same app prefer to be in the same task. However, you can modify the default affinity for an activity. Activities defined in different apps can share an affinity, or activities defined in the same app can be assigned different task affinities.
+#### Handle affinities
+- An affinity indicates which task an activity prefers to belong to. By default, all the activities from the same app have an affinity for each other. So, by default, all activities in the same app prefer to be in the same task. However, you can modify the default affinity for an activity. Activities defined in different apps can share an affinity, or activities defined in the same app can be assigned different task affinities.
     - You can modify the affinity for any given activity with the `taskAffinity` attribute of the `<activity>` element.
 
     - The `taskAffinity` attribute takes a string value, which must be unique from the default package name declared in the `<manifest>` element, because the system uses that name to identify the default task affinity for the app.
 
-    #### Clear the back stack
-    - **`alwaysRetainTaskState`** : If this attribute is set to **"true"** in the root activity of a task, the default behavior just described does not happen. The task retains all activities in its stack even after a long period.
-    - **`clearTaskOnLaunch`** : If this attribute is set to **"true"** in the root activity of a task, the task is cleared down to the root activity whenever the user leaves the task and returns to it. In other words, it's the opposite of alwaysRetainTaskState. The user always returns to the task in its initial state, even after leaving the task for only a moment.
-    - **`finishOnTaskLaunch`** : This attribute is like clearTaskOnLaunch, but it operates on a single activity, not an entire task. It can also cause any activity to finish, except for the root activity. When it's set to "true", the activity remains part of the task only for the current session. If the user leaves and then returns to the task, it is no longer present.
+#### Clear the back stack
+- **`alwaysRetainTaskState`** : If this attribute is set to **"true"** in the root activity of a task, the default behavior just described does not happen. The task retains all activities in its stack even after a long period.
+- **`clearTaskOnLaunch`** : If this attribute is set to **"true"** in the root activity of a task, the task is cleared down to the root activity whenever the user leaves the task and returns to it. In other words, it's the opposite of alwaysRetainTaskState. The user always returns to the task in its initial state, even after leaving the task for only a moment.
+- **`finishOnTaskLaunch`** : This attribute is like clearTaskOnLaunch, but it operates on a single activity, not an entire task. It can also cause any activity to finish, except for the root activity. When it's set to "true", the activity remains part of the task only for the current session. If the user leaves and then returns to the task, it is no longer present.
 
-  #### Start a task
-  - You can set up an activity as the entry point for a task by giving it an intent filter with **"android.intent.action.MAIN"** as the specified action and **"android.intent.category.LAUNCHER"** as the specified category. For example:
+#### Start a task
+- You can set up an activity as the entry point for a task by giving it an intent filter with **"android.intent.action.MAIN"** as the specified action and **"android.intent.category.LAUNCHER"** as the specified category. For example:
 
         <activity ... >
             <intent-filter ... >
