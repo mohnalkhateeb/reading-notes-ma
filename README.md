@@ -88,6 +88,7 @@
  | [class-426](https://mohnalkhateeb.github.io/reading-notes-ma/class-426) |  Android Fundamentals |
  | [class-427](https://mohnalkhateeb.github.io/reading-notes-ma/class-427) |  Intents, Activities, and SharedPreferences |
  | [class-428](https://mohnalkhateeb.github.io/reading-notes-ma/class-428) |  RecyclerView |
+ | [class-429](https://mohnalkhateeb.github.io/reading-notes-ma/class-429) |  Room |
 
   
 
