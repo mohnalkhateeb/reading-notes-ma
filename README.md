@@ -94,5 +94,6 @@
  | [class-432](https://mohnalkhateeb.github.io/reading-notes-ma/class-432) | Serverless and Amplify |
  | [class-433](https://mohnalkhateeb.github.io/reading-notes-ma/class-433) | GraphQL @connection |
  | [class-434](https://mohnalkhateeb.github.io/reading-notes-ma/class-434) | Monetization |
+ | [class-435](https://mohnalkhateeb.github.io/reading-notes-ma/class-435) | Graphs |
   
 
