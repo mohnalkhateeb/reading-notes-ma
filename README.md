@@ -93,5 +93,6 @@
  | [class-431](https://mohnalkhateeb.github.io/reading-notes-ma/class-431) | Espresso |
  | [class-432](https://mohnalkhateeb.github.io/reading-notes-ma/class-432) | Serverless and Amplify |
  | [class-433](https://mohnalkhateeb.github.io/reading-notes-ma/class-433) | GraphQL @connection |
+ | [class-434](https://mohnalkhateeb.github.io/reading-notes-ma/class-434) | Monetization |
   
 
