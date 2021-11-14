@@ -95,5 +95,6 @@
  | [class-433](https://mohnalkhateeb.github.io/reading-notes-ma/class-433) | GraphQL @connection |
  | [class-434](https://mohnalkhateeb.github.io/reading-notes-ma/class-434) | Monetization |
  | [class-435](https://mohnalkhateeb.github.io/reading-notes-ma/class-435) | Graphs |
+ | [class-436](https://mohnalkhateeb.github.io/reading-notes-ma/class-436) | Cognito |
   
 
