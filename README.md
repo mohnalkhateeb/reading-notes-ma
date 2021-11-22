@@ -100,5 +100,6 @@
  | [class-438](https://mohnalkhateeb.github.io/reading-notes-ma/class-438) | Notifications |
  | [class-439](https://mohnalkhateeb.github.io/reading-notes-ma/class-439) | Kinesis |
  | [class-441](https://mohnalkhateeb.github.io/reading-notes-ma/class-441) | Intent Filters |
+ | [class-442](https://mohnalkhateeb.github.io/reading-notes-ma/class-442) | Location |
   
 
