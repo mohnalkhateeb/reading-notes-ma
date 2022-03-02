@@ -6,7 +6,7 @@
   * 4- **Screen readers** : are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
 
 ## ***All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.***
-
+###### 
 ## **How the Web Works ?**
 
 ![DNSHTTP](https://res.cloudinary.com/academind-gmbh/image/upload/f_auto,q_auto/c_limit,dpr_1.0,g_center,w_1000/v1/academind.com/content/tutorials/how-the-web-works/how-the-web-works-big-picture.jpg)
